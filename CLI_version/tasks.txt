@@ -1,0 +1,4 @@
+excercise | Pending
+breakfast | Pending
+learn python | Done
+Do assignment | Pending
